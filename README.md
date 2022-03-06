@@ -1,22 +1,20 @@
 # AluraQuiz Base
 
-Seja bem vindo ao projeto base do AluraQuiz!
+Welcome to the AluraQuiz base project!
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/alura-challenges/aluraquiz-base/blob/master/LICENSE)
+![Project cover](/_docs/capa.png)
 
-![Capa do Projeto](/_docs/capa.png)
+## How to put my project in the immersion showcase?
 
-## Como colocar o meu projeto na vitrine da imersão?
+> [Immersion Showcase](https://aluraquiz-base.alura-challenges.vercel.app/contribuidores)
 
-> [Vitrine da Imersão](https://aluraquiz-base.alura-challenges.vercel.app/contribuidores)
+- [follow the steps](LINK)
 
-- [Siga os passos](LINK)
-
-## Onde está o Layout base?
+## Where is the Base Layout?
 - [Link](https://www.figma.com/file/cg1MIzSRRss8ggpypQbmdD/AluraQuiz?node-id=0%3A1)
 
 
-## Como pegar cores tema diferentes para minha app?
+## How to get different theme colors for my app?
 
-Você pode dar uma olhada nesse link e separar uma palheta que combine com sua imagem de background :) :
+You can take a look at this link and separate a palette that matches your background image :) 
 - https://material-ui.com/customization/color/#playground
